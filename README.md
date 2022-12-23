@@ -2,7 +2,7 @@
 um projeto de teste com um arquivo README 
 🚀
 
-[<img src="./tela.gif" alt="gif da tela do projeto">](https://google.com.br/)
+![gif da tela do projeto]('./tela.gif')(https://google.com.br/)
 
 ## Tecnologias utilizadas
 - HTML
